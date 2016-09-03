@@ -1,4 +1,3 @@
-layout_spectrum: 0.8107168660499156
 typography_spectrum: 0.24286980158649385
 color:
   brandStrength: 0.9687747959978878
@@ -6,9 +5,11 @@ color:
   saturation: 0.9401043991092592
   rhythmicContrast: 0.14352799067273736
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#CFC291'
+    - '#FFF6C5'
+    - '#A1E8D9'
+    - '#FF712C'
+    - '#695D46'
+layout_spectrum: 0.8107168660499156
 name: Face it.
+title: Polished Skin
